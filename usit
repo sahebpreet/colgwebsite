@@ -46,23 +46,16 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#about">ABOUT</a>	
+                        <a href="#about">About</a>	
                     </li>
-                    <!--<li class="page-scroll dropdown">
-                        <a href="#" class="dropdown-toggle" role="button" data-toggle="dropdown" data-target="#" id ="aboutLabel">
-			  <b class="caret"></b>
-			</a>
-			<ul class="dropdown-menu" role="menu" aria-labelledby="aboutLabel">
-			  <li><a tabindex="-1" href="#">Dean</a></li>
-			  <li><a tabindex="-1" href="#">Faculty</a></li>
-			  <li><a tabindex="-1" href="#">Infrastructure</a></li>
-			</ul>
-                    </li>-->
                     <li class="page-scroll">
-                        <a href="#academics">Academics</a>
+                        <a href="#academics">Academics</a>	
                     </li>
                     <li class="page-scroll">
                         <a href="#programmes">Placements</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="#admissions">Admissions</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Contact Us</a>
@@ -106,7 +99,7 @@
 				<img src="./img/ip/17.png" alt="" />
 			</div>-->
 			<div class="item">
-				<img src="./img/ip/3.png" alt="" />
+				<img src="./img/ip/44.png" alt="" />
 			</div>
 			<div class="item">
 				<img src="./img/ip/27.png" alt="" />
@@ -145,7 +138,7 @@
 				</div>-->
 			<!--</div>			
 			--><div class="item">
-				<img src="./img/ip/2.png" alt="" />
+				<img src="./img/ip/43.png" alt="" />
 				<!--<div class="container">
 					<div class="carousel-caption">
 						<h1>Bootstrap Carousel Fullscreen</h1>
@@ -166,9 +159,9 @@
 		<div class="container">
 		  <div class="row" style="margin-top:10%">
                     <div class="col-md-8 col-md-offset-2">
-                        <!--<h3 >Welcome to</h3-->
+                        <!--<h3 >Welcome to</h3>
 						<h2 class="brand-heading">University School of Information and Communication Technology</h2>
-                        <!--p class="intro-text">A free, premium quality, responsive one page Bootstrap theme created by Start Bootstrap.</p>-->
+                        --><!--p class="intro-text">A free, premium quality, responsive one page Bootstrap theme created by Start Bootstrap.</p>-->
                         <!--<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                         <div class="page-scroll">
                             <a href="#about" class="btn btn-circle">
@@ -208,98 +201,34 @@
     <section id="about" class="container content-section text-center">
         <div class="row">
             <div class="col-lg-12 whitebg">
-                <h2>A<span class="yellow">BO</span>UT U<span class="yellow">SI</span>CT</h2>
-		<p>University School of Information and Communication Technology has been established with two objectives first to generate effective professionals and second to keep pace with the fast emerging field of ITC. The school aims at empowering essential skills to its students who are equipped to meet the demands of the software at all levels, national and global.</p>
-                <br/>
-                <span class="pull-left aboutOptions">
-		  <img src="img/ip/1.png" class="img-circle"/> <br/><br/>
-		  <a href="#" class="text-center"> D<span class="orange">EA</span>N >> </a>
-                </span>
-                <span class="aboutOptions middleOption" >
-		  <img src="img/ip/15.png" class="img-circle"/> <br/><br/>
-		  <a href="#" class="text-center">F<span class="orange">AC</span>U<span class="orange">LT</span>Y >></a>
-                </span>
-                <span class="pull-right aboutOptions">
-		  <img src="img/ip/8.png" class="img-circle"/> <br/><br/>
-		  <a href="#" class="text-center">I<span class="orange">NFR</span>A<span class="orange">STR</span>U<span class="orange">CTU</span>RE >></a>
-		</span><br/><br/><br/><br/><br/><br/>
+                <h2>About USICT</h2>
+                <p>Founded in 1999,</br>
+				University School of Information Technology </br>was established by the Government of Delhi as one of the 12 University Schools of Studies under the Guru Gobind Singh Indraprastha University.</p>
+                <br/><br/><br/><br/>
+                <img src="img/ip/15.png" class="img-circle aboutOptions"/> <img src="img/ip/15.png" class="img-circle aboutOptions"/> <img src="img/ip/15.png" class="img-circle  aboutOptions"/><br/><br/><br/><br/><br/><br/><br/><br/>
             </div>
         </div>
     </section>
-
-    <section id="academics" class=" container content-section text-center">
-        <div class="row">
-                <div class="col-lg-12 bluebg">
-                    <h2>A<span class="yellow">CA</span>DE<span class="yellow">MI</span>CS</h2>
-                    <br/><br/>
-		    <div class="col-md-6 academicsOptions" >
-		      <span class="col-sm-2">
-			<a href="#" class="btn btn-circle">
-			  <i class="glyphicon glyphicon-book"></i>
-			</a>
-		      </span>
-		      <span class="academicsOptionsContent col-sm-10">
-			<a href ="#" class="academicsOptionsTitle"> PROGRAMMES </a><br/>
-			USICT offers undergraduate, postgraduate and research programmes in engineering.
-		      </span>
-		    </div>
-		    <div class="col-md-6 academicsOptions" >
-		      <span class="col-sm-2">
-			<a href="#" class="btn btn-circle">
-			  <i class="glyphicon glyphicon-list-alt"></i>
-			</a>
-		      </span>
-		      <span class="academicsOptionsContent col-sm-10">
-			<a class="academicsOptionsTitle"> NOTICE/CIRCULAR </a><br/>
-			Find here latest news and announcements about USICT academics.
-		      </span>
-		    </div>
-		    <div class="col-md-6 academicsOptions" >
-		      <span class="col-sm-2">
-			<a href="#" class="btn btn-circle">
-			  <i class="glyphicon glyphicon-edit"></i>
-			</a>
-		      </span>
-		      <span class="academicsOptionsContent col-sm-10">
-			<a class="academicsOptionsTitle"> EXAMINATION </a><br/>
-			All about USICT Exams and results
-		      </span>
-		    </div>
-		    <div class="col-md-6 academicsOptions" >
-		      <span class="col-sm-2">
-			<a href="#" class="btn btn-circle">
-			  <i class="glyphicon glyphicon-calendar glyphicon-nonescaped"></i>
-			</a>
-		      </span>
-		      <span class="academicsOptionsContent col-sm-10">
-			<a class="academicsOptionsTitle"> ACADEMIC CALENDER </a><br/>
-			Information about the events and holidays during the academic session.
-		      </span>
-		    </div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<!--
+    <section id="programmes" class="content-section text-center">
+        <div class="programmes-section">
+            <div class="container">
+                <div class="col-lg-12 whitebg">
+                    <h2>Programmes</h2>
+                    <p>You can download Grayscale for free on the download page at Start Bootstrap. You can also get the source code directly from GitHub if you prefer. Additionally, Grayscale is the first Start Bootstrap theme to come with a LESS file for easy color customization!</p>
+                    <p>You can download Grayscale for free on the download page at Start Bootstrap. You can also get the source code directly from GitHub if you prefer. Additionally, Grayscale is the first Start Bootstrap theme to come with a LESS file for easy color customization!</p>
+                    <a href="http://startbootstrap.com/grayscale" class="btn btn-default btn-lg">Visit Download Page</a>
                 </div>
+            </div>
         </div>
     </section>
 
     <section id="contact" class="container content-section text-center">
         <div class="row">
-            <div class="col-lg-12 darkbluebg">
-		<!--<span>
-		  <a href="#" class="btn btn-circle">
-		    <i class="glyphicon glyphicon-envelope"></i>
-		  </a>
-		</span>-->
-                <h2>C<span class="yellow">O</span>NT<span class="yellow">A</span>CT I<span class="yellow">N</span>FO<span class="yellow">R</span>MA<span class="yellow">T</span>IO<span class="yellow">N</span></h2>
-                <br/><br/><br/><br/>
-                <p class="text-left"> Dean<br/>                
-                University School of Information and Communication Technology<br/>
-                (EFR ­ 204, EFR ­ 206)<br/>
-                Guru Gobind Singh Indraprastha University<br/>
-                Sector 16­C, Dwarka <br/>
-                New Delhi 110078 (India)</p>
-                <p></p>
-                <p class="text-left">Phone: +91­1125302702, 25302715</p>
-                <p></p>
-                <p class="text-left">http://ipu.ac.in/usict/usictmain.htm</p><!--
+            <div class="col-lg-12 whitebg">
+                <h2>Contact Start Bootstrap</h2>
+                <p>Feel free to email us to provide some feedback on our templates, give us suggestions for new templates and themes, or to just say hello!</p>
+                <p>feedback@startbootstrap.com</p>
                 <ul class="list-inline banner-social-buttons">
                     <li><a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                     </li>
@@ -307,19 +236,12 @@
                     </li>
                     <li><a href="https://plus.google.com/+Startbootstrap/posts" class="btn btn-default btn-lg"><i class="fa fa-google-plus fa-fw"></i> <span class="network-name">Google+</span></a>
                     </li>
-                </ul>-->
-                <br/><br/>
+                </ul>
             </div>
         </div>
     </section>
-    <section id="footer">
-	<div class="row">
-	  <div class="col-lg-12 blackbg">
-	    <a class="yellow" href="http://www.ipu.ac.in">GGSIPU HOME </a>|<a class="yellow" href="#"> HOME </a>|<a class="yellow" href="#about"> ABOUT </a>|<a class="yellow" href="#academics"> ACADEMICS </a>|<a class="yellow" href="#"> PLACEMENTS </a>|<a class="yellow" href="#contact"> CONTACT US</a><br/><br/>
-	    This website is created by <span class="yellow">students of USICT </span><br/><br/>
-	  </div>
-	</div>
-    </section>
+
+    <div id="map"></div>-->
 
     <!-- Core JavaScript Files -->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
